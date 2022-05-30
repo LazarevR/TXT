@@ -1,0 +1,7 @@
+-Git bash/Terminal
+-Git
+-Postman
+-Charles Proxy
+-JavaScript
+-SQL
+-Selenium+Python
