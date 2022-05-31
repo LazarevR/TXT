@@ -1,7 +1,6 @@
 # TXT
 Group_30 (Homework)
 
-**TXT**
 1. Создать внешний репозиторий c названием TXT.
 
 	`Repositories -> New -> Repository name: TXT -> Create repository`
